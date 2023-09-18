@@ -1,0 +1,7 @@
+@import "bootstrap/scss/bootstrap";
+
+.custom-carousel {
+  max-width: 1195px; /* Define a largura máxima do carrossel */
+  margin: 0 auto; /* Centraliza o carrossel horizontalmente */
+  overflow: hidden; /* Caso as imagens sejam maiores que o carrossel, elas serão cortadas */
+}

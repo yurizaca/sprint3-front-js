@@ -1,0 +1,35 @@
+@import "bootstrap/scss/bootstrap";
+.img-problema {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.img-problema img {
+  width: 1105px;
+  border-radius: 20px;
+}
+
+.cards {
+  display: flex;
+  justify-content: center;
+}
+
+.section-highlight {
+  background-color: #f4f4f4; /* Um cinza claro para contraste */
+  padding: 50px 0;
+  text-align: center;
+}
+
+.section-highlight p {
+  font-size: 18px;
+  line-height: 1.6;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.icon-food {
+  font-size: 40px;
+  margin-bottom: 20px;
+  color: #2c3e50; /* Uma cor mais escura para contraste */
+}
