@@ -30,17 +30,15 @@ function Footer() {
             <div className="footer-col">
               <h4>Conteúdo</h4>
               <ul>
+                <li></li>
                 <li>
-                  <a href="#">watch</a>
+                  <a href="#">Impacto</a>
                 </li>
                 <li>
-                  <a href="#">bag</a>
+                  <a href="#">Problema</a>
                 </li>
                 <li>
-                  <a href="#">shoes</a>
-                </li>
-                <li>
-                  <a href="#">dress</a>
+                  <a href="#">Solução</a>
                 </li>
               </ul>
             </div>

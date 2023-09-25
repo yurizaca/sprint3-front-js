@@ -36,20 +36,20 @@ function BeneficioImpacto() {
           />
           <BeneficioCard
             backgroundUrl="src/images/emoji2.jpg"
-            imageUrl="src/images/emoji3.jpg"
+            imageUrl="src/images/fotoSemaforo.jpg"
             title="Segurança Reforçada"
             description="Monitorização em tempo real para reduzir acidentes envolvendo veículos e pedestres.
             "
           />
           <BeneficioCard
             backgroundUrl="src/images/emoji4.jpg"
-            imageUrl="src/images/emoji5.jpg"
+            imageUrl="src/images/emoji3.jpg"
             title="Trânsito Eficiente"
             description="Intervenções ágeis, como recalibração de semáforos, adaptando-se às demandas do momento."
           />
           <BeneficioCard
             backgroundUrl="src/images/emoji6.jpg"
-            imageUrl="src/images/emoji7.jpg"
+            imageUrl="src/images/emoji5.jpg"
             title="Sustentabilidade Ambiental"
             description="Redução das emissões de poluentes devido ao fluxo de tráfego mais eficiente."
           />
@@ -71,26 +71,26 @@ function BeneficioImpacto() {
           description="Economia significativa para metrópoles graças a deslocamentos mais eficientes."
         />
         <BeneficioCard
-          backgroundUrl="src/images/emoji12.jpg"
-          imageUrl="src/images/emoji13.jpg"
+          backgroundUrl="src/images/emoji13.jpg"
+          imageUrl="src/images/emoji12.jpg"
           title="Ambiental Benéfico"
           description=" Diminuição de emissões carbônicas graças a um tráfego otimizado."
         />
         <BeneficioCard
           backgroundUrl="src/images/emoji.14.jpg"
-          imageUrl="src/images/emoji15.jpg"
+          imageUrl="src/images/emoji19.jpg"
           title="Mudanças Infraestruturais"
           description=" Adaptações necessárias em infraestrutura e sinais de trânsito para incorporar o sistema."
         />
         <BeneficioCard
-          backgroundUrl="src/images/emoji16.jpg"
-          imageUrl="src/images/emoji.17.jpg"
+          backgroundUrl="src/images/emoji15.jpg"
+          imageUrl="src/images/emoji16.jpg"
           title="Elevação da Expectativa dos Cidadãos"
           description=" A medida que o sistema é implementado, cidadãos passarão a esperar padrões mais altos de gestão de tráfego."
         />
         <BeneficioCard
           backgroundUrl="src/images/emoji18.jpg"
-          imageUrl="src/images/emoji.8.jpg"
+          imageUrl="src/images/emoji.17.jpg"
           title="Desafios de Privacidade"
           description=" Monitorização em tempo real pode levantar preocupações sobre privacidade e uso dos dados coletados."
         />

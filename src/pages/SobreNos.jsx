@@ -1,5 +1,4 @@
 import {} from "react";
-import image4 from "../images/instagram.jpg";
 
 function SobreNos() {
   return (
@@ -10,16 +9,12 @@ function SobreNos() {
             <div className="col-lg-6">
               <h1 className="display-4">Sobre nós</h1>
               <p className="lead text-muted mb-0">
-                Create a minimal about us page using Bootstrap 4.
+                Somos um grupo de amigos da faculdade, unidos pela paixão pela
+                tecnologia e pelo desejo de criar projetos inovadores.
               </p>
               <p className="lead text-muted">
-                Snippet by{" "}
-                <a
-                  href="https://bootstrapious.com/snippets"
-                  className="text-muted"
-                >
-                  <u>Bootstrapious</u>
-                </a>
+                Juntos, exploramos, aprendemos e crescemos, sempre buscando
+                novos desafios.
               </p>
             </div>
             <div className="col-lg-6 d-none d-lg-block">
@@ -38,14 +33,13 @@ function SobreNos() {
           <div className="row align-items-center mb-5">
             <div className="col-lg-6 order-2 order-lg-1">
               <i className="fa fa-bar-chart fa-2x mb-3 text-primary"></i>
-              <h2 className="font-weight-light">Lorem ipsum dolor sit amet</h2>
+              <h2 className="font-weight-light">Nossa Jornada</h2>
               <p className="font-italic text-muted mb-4">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                Desde os primeiros dias na faculdade, percebemos que tínhamos
+                uma conexão especial. Essa conexão nos levou a trabalhar em
+                diversos projetos juntos, enfrentando desafios e celebrando
+                conquistas.
               </p>
-              <a href="#" className="btn btn-light px-5 rounded-pill shadow-sm">
-                Learn More
-              </a>
             </div>
             <div className="col-lg-5 px-5 mx-auto order-1 order-lg-2">
               <img
@@ -65,14 +59,11 @@ function SobreNos() {
             </div>
             <div className="col-lg-6">
               <i className="fa fa-leaf fa-2x mb-3 text-primary"></i>
-              <h2 className="font-weight-light">Lorem ipsum dolor sit amet</h2>
+              <h2 className="font-weight-light">Prontos para o Desafio</h2>
               <p className="font-italic text-muted mb-4">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                Estamos sempre prontos para aprender algo novo e colocar nossas
+                habilidades à prova.
               </p>
-              <a href="#" className="btn btn-light px-5 rounded-pill shadow-sm">
-                Learn More
-              </a>
             </div>
           </div>
         </div>
@@ -82,7 +73,8 @@ function SobreNos() {
         <div className="mb-4">
           <h2 className="display-4 font-weight-light">Conheça nossa equipe</h2>
           <p className="font-italic text-muted">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+            Cada um de nós traz uma habilidade única para o grupo, tornando
+            nossa equipe diversa e talentosa.
           </p>
         </div>
         <div className="grid grid-cols-3 py-5 gap-4">
