@@ -13,10 +13,10 @@ function Footer() {
               <h4>MacLovers</h4>
               <ul>
                 <li>
-                  <a href="#">about us</a>
+                  <a href="#">Contato</a>
                 </li>
                 <li>
-                  <a href="#">our services</a>
+                  <a href="/sobrenos">Sobre Nós</a>
                 </li>
                 <li>
                   <a href="#">privacy policy</a>
@@ -30,15 +30,17 @@ function Footer() {
             <div className="footer-col">
               <h4>Conteúdo</h4>
               <ul>
-                <li></li>
                 <li>
-                  <a href="#">Impacto</a>
+                  <a href="/beneficioimpacto">Beneficio</a>
                 </li>
                 <li>
-                  <a href="#">Problema</a>
+                  <a href="/beneficioimpacto">Impacto</a>
                 </li>
                 <li>
-                  <a href="#">Solução</a>
+                  <a href="/sobreproblema">Problema</a>
+                </li>
+                <li>
+                  <a href="/solucao">Solução</a>
                 </li>
               </ul>
             </div>
